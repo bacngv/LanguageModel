@@ -41,7 +41,7 @@ def visualize():
 
     plt.show()
     # Save the plot to a file as a fallback
-    fig.savefig('word_vectors.png')
+    fig.savefig('result/word_vectors.png')
 
 # Main function
 if __name__ == '__main__':
